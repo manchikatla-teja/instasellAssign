@@ -1,0 +1,41 @@
+.Center{
+    background-color: #FFF7EE;
+    position: absolute;
+    width: 1280px;
+    height: 607px;
+    top: 396px;
+    color:#4A4A4A;
+}
+
+.statTab{
+    width:415px;
+    height: 104px;
+    padding: 16px 0px 0px 16px;
+    border-radius: 6px;
+}
+
+.filterTabBar{
+    position: absolute;
+    top:104px;
+    left: 68px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    height: 36px;
+    font-weight: 650;
+    font-size: 13px;
+    line-height: 20px;
+    color: #4A4A4A;
+}
+
+.filterTabBarInPie{
+    display: flex;
+    width: 497px;
+    flex-direction: row;
+    gap: 8px;
+    height: 36px;
+    font-weight: 650;
+    font-size: 13px;
+    line-height: 20px;
+    color: #4A4A4A;
+}

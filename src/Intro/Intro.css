@@ -1,0 +1,81 @@
+.IntroCard{
+    position: absolute;
+    padding: 16px, 16px, 24px, 16px;
+    top: 164px;
+    gap: 32px;
+}
+
+.IntroCard1{
+    left: 68px;
+}
+
+.IntroCard2{
+    left: 416px;
+}
+
+
+.IntroCard3{
+    left: 764px;
+}
+
+.introCardHeader{
+    display:"flex";
+    flex-direction:"row";
+    gap: 8px;
+    width: 300px;
+    height: 20px;
+    font: Inter;
+    font-weight: 650;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.introCardHeader1{
+    color: #4A4A4A;
+}
+
+.introCardHeader2{
+    color: #5E4200;
+}
+
+.introCardHeader3{
+    color: #4A4A4A;
+}
+
+
+.introCardInfo{
+    width: 300px;
+    height: 40px;
+    font: Inter;
+    font-weight: 450;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.introCardInfo1{
+    color:#4A4A4A;
+}
+.introCardInfo2{
+    color:#5E4200;
+}
+.introCardInfo3{
+    color:#4A4A4A;
+}
+
+.cardContents{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+.cardHeaderContents{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.cardButton{
+    font: Inter;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+}

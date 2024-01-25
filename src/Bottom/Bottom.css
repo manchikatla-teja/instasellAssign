@@ -1,0 +1,32 @@
+
+.cardBottom1{
+    position: absolute;
+    width: 332px;
+    height: 408px;
+    top: 1131px;
+    left: 69px;
+}
+
+.cardBottom2{
+    position: absolute;
+    width: 448px;
+    height: 152px;
+    top: 1131px;
+    left: 416px;
+}
+
+.cardBottom3{
+    position: absolute;
+    width: 448px;
+    height: 226px;
+    top: 1299px;
+    left: 416px;
+}
+
+.cardBottom4{
+    position: absolute;
+    width: 332px;
+    height: 404px;
+    top: 1131px;
+    left: 880px;
+}

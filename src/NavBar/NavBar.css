@@ -1,0 +1,52 @@
+.navBarMain{
+    background-color: #ffffff;
+    width: 100%;
+    height: 56px;
+    border-bottom: 1px solid #8A8A8A;
+}
+
+.tabInNavBarMain{
+    height: 24px;
+    width: fit-content;
+    font: Inter;
+    font-weight: 650;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.tabInNavBarMain::before{
+  position: absolute;
+  background: #8051FF;
+  height: 2px;
+  content: '';
+  width: 24px;
+  bottom: 0px;
+  left: 0px;
+}
+
+.tagBar{
+    position: absolute;
+    top:16px;
+    left: 69px;
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    color: #4A4A4A;
+}
+
+.otherSide{
+    position: absolute;
+    top:16px;
+    left: 860px;
+    height: 24px;
+    width: fit-content; 
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    font: Inter;
+    font-weight: 450;
+    font-size: 13px;
+    color: #616161;
+    line-height: 20px;
+    
+}
