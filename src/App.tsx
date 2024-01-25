@@ -7,7 +7,7 @@ import { NavBar } from './NavBar/NavBar';
 function App() {
   return (
     <div className="App">
-      <div className="mainPage" style={{width:"1280px", height:"1688px", backgroundColor:"#fffdfa", margin:"auto"}}>
+      <div className="mainPage" style={{width:"1280px", height:"1688px", backgroundColor:"#fffdfa"}}>
         <NavBar></NavBar>
         <Intro></Intro>
         <Center></Center>
